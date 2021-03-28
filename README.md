@@ -1,0 +1,2 @@
+# Machine-Learning--Matplotlib
+Matplotlib provides an easy but comprehensive visual approach to present our findings. There are a number of visualizations we can choose from to present our results. From histograms to scatterplots, matplotlib lays down an array of colors, themes, palettes, and other options to customize and personalize our plots. matplotlib is useful whether you’re performing data exploration for a machine learning project or simply want to create dazzling and eye-catching charts.
